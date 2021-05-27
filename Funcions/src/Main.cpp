@@ -50,5 +50,6 @@ int main()
 
 	std::cout << p.x - t->x << std::endl;
 	//hi from fooo
+	//hi from bar
 	return 0;
 }
