@@ -49,6 +49,6 @@ int main()
 	p.set(223);
 
 	std::cout << p.x - t->x << std::endl;
-
+	//hi from fooo
 	return 0;
 }
